@@ -18,7 +18,7 @@ Make sure you have the following software installed on your machine:
 
 git clone https://github.com/your-username/pexels_clone_flutter.git
 
-cd pexels_clone_flutter
+cd pexels-clone
 
 
 ### Install Dependencies
