@@ -16,5 +16,20 @@ Make sure you have the following software installed on your machine:
 
 ### Clone the Repository
 
+```bash
 git clone https://github.com/your-username/pexels_clone_flutter.git
 cd pexels_clone_flutter
+
+Install Dependencies
+
+bash
+
+flutter pub get
+
+Run the App
+
+bash
+
+flutter run
+
+This will launch the app on your connected device or emulator.
